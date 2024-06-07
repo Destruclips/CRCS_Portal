@@ -2,8 +2,6 @@
 
 # Dashboard - Central Registrar for Co-operative Societies Portal
 
-<b><u>Demo</u>: </b> <a href="https://crcs-portal-five.vercel.app"> https://crcs-portal-five.vercel.app</a>
-
 <p style='text-align: justify;'>The dashboard was made as per the dataset provided and requirements stated in the hackathon (2023) organized by CRCS.</p>
 
 ## Features / Modules 💡
