@@ -47,3 +47,5 @@
 - AG DataGrid
 - Google Maps API
 - GeoApify (Geocoding)
+
+To run project: npm i --> npm run dev
