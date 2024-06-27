@@ -123,20 +123,6 @@ export function Configurator() {
               </li>
             </ul>
           )}
-          <li className="px-4 py-2 hover:bg-gray-200">
-          <Typography
-              variant="small"
-              color="blue-gray"
-              className="p-1 font-medium text-blue-gray-500"
-            >
-              <a
-                href="https://github.com/GlenDsza/CRCS_Portal"
-                className="flex items-center transition-colors hover:text-blue-500"
-              >
-                View source-code
-              </a>
-            </Typography>
-          </li>
         </ul>
       </div>
 
